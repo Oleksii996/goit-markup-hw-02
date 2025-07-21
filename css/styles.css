@@ -63,7 +63,7 @@ ul {
   .section_effective_solutions {
     background-color: #2e2f42;
   }
-  .class_h1 {
+  .h1-class {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -93,14 +93,14 @@ ul {
   .section_benefits {
     background-color: #ffffff;
   }
-  .class_h3 {
+  .h3-class {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
   }
-  .section_2_3_p {
+  .p-section-2-3 {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -112,7 +112,7 @@ ul {
   .section_our_team {
     background-color: #f4f4fd;
   }
-  .class_h2 {
+  .h2-class {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
