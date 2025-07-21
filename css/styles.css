@@ -1,0 +1,155 @@
+body {
+    font-family: Roboto;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
+h2 {
+    color: #2E2F42;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.72px;
+}
+h3 {
+    color:#2E2F42;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+}
+p {
+    color: #434455;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
+
+/* Header */
+    header {
+        background-color: #ffffff;
+    }
+    .website-logo {
+        color:#2E2F42;
+        font-family: Raleway;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 21px;
+        letter-spacing: 0.54px;
+        text-transform: uppercase;
+    }
+    .website-logo-WEB {
+        color:#4D5AE5;
+    }
+    .header-menu a {
+        color: #2E2F42;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.32px;
+    }
+    .header-menu a:hover {
+        color: #404BBF;
+    }
+    .header-menu a:active {
+        color: #b8126d;
+    }
+    .address-menu a {
+        color:#434455;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.32px;
+    }
+    .address-menu a:hover {
+        color: #404BBF;
+    }
+/* Header */
+
+/* Section - Effective Solutions */
+    .section_effective_solutions {
+        background-color: #434455;
+    }
+    h1 {
+        color: #ffffff;
+        font-size: 56px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 60px;
+        letter-spacing: 1.12px;
+    }
+    .button_order_service {
+        padding: 16px 32px;
+        border-radius: 4px;
+        background-color: #4D5AE5;
+        color: #ffffff;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.64px;
+    }
+    .button_order_service:hover {
+        background-color: #404BBF;
+    }
+/* Section - Effective Solutions */
+
+/* Section - Benefits */
+    .section_benefits {
+        background-color: #ffffff;
+    }
+/* Section - Benefits */
+
+/* Section - Our Team */
+    .section_our_team {
+        background-color: #F4F4FD;
+    }
+    .section_our_team li{
+        background-color: #ffffff;
+        width: 264px;
+        height: 380px;
+    }
+/* Section - Our Team */
+
+/* Section - Our Portfolio */
+.section_our_portfolio {
+    background-color: #ffffff;
+}
+.section_our_portfolio li {
+    width: 360px;
+    height: 420px;
+    background-color: #ffffff;
+}
+/* Section - Our Portfolio */
+
+/* Footer */
+    footer {
+        background-color: #2E2F42;
+    }
+    .website-logo-footer {
+        color:#4D5AE5;
+        font-family: Raleway;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 21px;
+        letter-spacing: 0.54px;
+        text-transform: uppercase;
+    }
+    .website-logo-footer-WEB {
+        color:#F4F4FD;
+    }
+    footer p{
+        color:#F4F4FD;
+    }
+/* Footer */
